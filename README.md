@@ -31,4 +31,20 @@ Course Credit : 3 (Theory), 1.5 (Lab)
 
 Reference Book
 
-[📘 System Analysis and Design, 8th Edition by Kendall and Kendall](materials/textbook.pdf)
+  [📘 System Analysis and Design, 8th Edition by Kendall and Kendall](materials/textbook.pdf)
+
+Agile Model
+
+[🗒️ Agile Model In Designing System](https://www.geeksforgeeks.org/system-design/agile-model-in-designing-system/#phases-of-agile-model-in-designing-system)
+
+[🗒️ Agile Model](https://www.tutorialspoint.com/sdlc/sdlc_agile_model.htm)
+
+Sprint
+
+[🗒️ What is Sprint?](https://www.geeksforgeeks.org/software-engineering/what-is-a-sprint-in-agile/)
+
+Object-Oriented Analysis and Design(OOAD)
+
+[🗒️ OOSAD](https://www.geeksforgeeks.org/software-engineering/object-oriented-analysis-and-design/)
+
+[🗒️ Object Oriented Approach](https://www.tutorialspoint.com/system_analysis_and_design/system_analysis_and_design_object_oriented_approach.htm)
