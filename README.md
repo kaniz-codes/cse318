@@ -36,6 +36,12 @@ Reference Book
 
   [📘 System Analysis and Design, 8th Edition by Kendall and Kendall](materials/textbook.pdf)
 
+Types of Information System
+
+[▶️ Types of Information Systems (TPS, MIS, and DSS)]( https://youtu.be/nQ4Q3iN7TMM?si=n3pRdZJ7IjeOZJuy)
+
+[🗒️ Types Of Information System](https://www.geeksforgeeks.org/computer-networks/types-of-information-system/)
+
 Agile Model
 
 [🗒️ Agile Model In Designing System](https://www.geeksforgeeks.org/system-design/agile-model-in-designing-system/#phases-of-agile-model-in-designing-system)
