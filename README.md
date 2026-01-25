@@ -34,13 +34,17 @@ Course Credit : 3 (Theory), 1.5 (Lab)
 
 Reference Book
 
-  [📘 System Analysis and Design, 8th Edition by Kendall and Kendall](materials/textbook.pdf)
+[📘 System Analysis and Design, 8th Edition by Kendall and Kendall](materials/textbook.pdf)
 
 Types of Information System
 
 [▶️ Types of Information Systems (TPS, MIS, and DSS)]( https://youtu.be/nQ4Q3iN7TMM?si=n3pRdZJ7IjeOZJuy)
 
 [🗒️ Types Of Information System](https://www.geeksforgeeks.org/computer-networks/types-of-information-system/)
+
+Design Methodology
+
+[🗒️ What is Design Methodology?](https://learn.org/articles/what-is-design-methodology)
 
 Agile Model
 
