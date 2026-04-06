@@ -14,6 +14,11 @@ This repository contains my CSE 318 notes and project work as I study **System A
 | 04 | [13-Jan-2026](./class-notes)  Chap 01: OOSAD, UML       | [-](./lab-tasks) |
 | 05 | [19-Jan-2026](./class-notes/class-05)  Chap 02: Modeling Systems Graphically, Context Level DFD  | [-](./lab-tasks) |
 | 06 | [20-Jan-2026](./class-notes/class-06)  Chap 02: Entity Relationship Diagram | [-](./lab-tasks) |
+| 07 | [02-Mar-2026] Chap 04: Information Gathering | [-](./lab-tasks) |
+| 08 | [03-Mar-2026] JAD, Chap 07: Using DFD | [-](./lab-tasks) |
+| 09 | [30-Mar-2026] Chp-4 recap, Chap 07: DFD | [-](./lab-tasks) |
+| 10 | [31-Mar-2026] DFD(level-1, level-2), logical vs physical DFD | [-](./lab-tasks) |
+| 11 | [04-Apr-2026] Logical & physical DFD, Chp-10 O-OSAD using UML| [-](./lab-tasks) |
 
 </div>
 
